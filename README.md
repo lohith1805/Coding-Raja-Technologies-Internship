@@ -1,4 +1,4 @@
-# Coding-Rja-Technologies-Internship
+# Coding-Raja-Technologies-Internship
 
 **TASK 1**
 

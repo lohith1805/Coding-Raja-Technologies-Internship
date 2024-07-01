@@ -2,7 +2,11 @@
 <img width="670" alt="image" src="https://github.com/lohith1805/Coding-Rja-Technologies-Internship/assets/130832005/051f7c18-ecd0-4f45-b28b-9a0ee46a3d2e">
 
 
-output in flask server in .json file 
+**output in flask server in .json file **
+
+
+
+
 [
     {"movieId": 1, "title": "Toy Story (1995)"},
     {"movieId": 2, "title": "Jumanji (1995)"},

@@ -29,9 +29,12 @@ Generate top-N movie recommendations for a specific user.
 Create a simple web interface to allow users to input their preferences and receive movie recommendations.
 
 **Tech Stack**:
-Python
-Data manipulation libraries (pandas)
-Recommendation libraries (surprise)
+Python,
+
+Data manipulation libraries (pandas),
+
+Recommendation libraries (surprise),
+
 Web framework (Flask or Django) for creating the interface
 
 

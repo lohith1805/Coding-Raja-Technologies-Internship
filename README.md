@@ -1,4 +1,6 @@
 # Coding-Rja-Technologies-Internship
+
+**TASK 1**
 <img width="670" alt="image" src="https://github.com/lohith1805/Coding-Rja-Technologies-Internship/assets/130832005/051f7c18-ecd0-4f45-b28b-9a0ee46a3d2e">
 
 
@@ -19,3 +21,6 @@
     {"movieId": 9, "title": "Sudden Death (1995)"},
     {"movieId": 10, "title": "GoldenEye (1995)"}
 ]
+
+**TASK 2**
+<img width="357" alt="image" src="https://github.com/lohith1805/Coding-Rja-Technologies-Internship/assets/130832005/dba69bd4-af93-47c1-8d05-00da4178a1d6">
